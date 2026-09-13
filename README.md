@@ -237,7 +237,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Anshu**
+DHRUMI TAILOR
 
 B.Tech Information Technology
 
